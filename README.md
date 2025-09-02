@@ -25,10 +25,12 @@ Fills borders with 5 shades (black, white, and 3 gray levels).
 git clone https://github.com/mihirvr/image_to_hex.git
 
 •Install dependencies:
+
 pip install -r requirements.txt
 
 •Run a script:
-python generated_hex/hexgen_w_dithering.py
+
+python hexgen_w_dithering.py
 
 •Check outputs in respective folders
 
