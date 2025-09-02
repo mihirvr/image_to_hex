@@ -19,7 +19,7 @@ Fills borders with 5 shades (black, white, and 3 gray levels).
 
 🚀 Usage
 •Clone the repo:
-git clone https://https://github.com/mihirvr/image_to_hex/
+git clone https://github.com/mihirvr/image_to_hex
 cd imager_v2
 
 •Install dependencies:
