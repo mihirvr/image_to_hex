@@ -2,6 +2,7 @@
 This project provides a set of Python tools to convert images into hexadecimal arrays for use with microcontrollers (e.g., ESP32/Arduino) — especially for E-Ink displays.
 
 ✨ Features
+
 •Image → Hex Conversion
 ✅ 1-bit monochrome
 ✅ Grayscale (4-bit / multi-shade)
@@ -32,6 +33,7 @@ python generated_hex/hexgen_w_dithering.py
 
 
 📌 Notes
+
 Designed for E-Ink display testing (works with ESP32/Arduino projects).
 Supports monochrome + grayscale (with and without dithering).
 
