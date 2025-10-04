@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="0tBfaHkhkYpJxBVEgsku7RFdMl9nqP8mjtDl5C-oBRM" />
 # image_to_hex
 This project provides a set of Python tools to convert images into hexadecimal arrays for use with microcontrollers (e.g., ESP32/Arduino) — especially for E-Ink displays.
 
