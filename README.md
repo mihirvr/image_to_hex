@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="0tBfaHkhkYpJxBVEgsku7RFdMl9nqP8mjtDl5C-oBRM" />
 
 # image_to_hex
 
